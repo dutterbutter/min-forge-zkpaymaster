@@ -10,3 +10,6 @@
 [submodule "lib/era-uniswap-swap-router-contracts"]
 	path = lib/era-uniswap-swap-router-contracts
 	url = https://github.com/uniswap-zksync/era-uniswap-swap-router-contracts
+[submodule "lib/era-universal-router"]
+	path = lib/era-universal-router
+	url = https://github.com/uniswap-zksync/era-universal-router
