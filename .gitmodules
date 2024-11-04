@@ -4,3 +4,6 @@
 [submodule "lib/era-contracts"]
 	path = lib/era-contracts
 	url = https://github.com/matter-labs/era-contracts
+[submodule "lib/era-uniswap-v3-core"]
+	path = lib/era-uniswap-v3-core
+	url = https://github.com/uniswap-zksync/era-uniswap-v3-core
