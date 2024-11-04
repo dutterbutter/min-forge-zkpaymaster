@@ -13,3 +13,6 @@
 [submodule "lib/era-universal-router"]
 	path = lib/era-universal-router
 	url = https://github.com/uniswap-zksync/era-universal-router
+[submodule "lib/era-permit2"]
+	path = lib/era-permit2
+	url = https://github.com/uniswap-zksync/era-permit2
