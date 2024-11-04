@@ -1,0 +1,6 @@
+@uniswap-zksync/=lib/era-universal-router/contracts/
+@uniswap-zksync-core/=lib/era-uniswap-v3-core/contracts/
+@uniswap-zksync-router/=lib/era-uniswap-swap-router-contracts/contracts/
+@openzeppelin/=lib/openzeppelin-contracts/contracts/
+@matterlabs/era-contracts/=lib/era-contracts/system-contracts/contracts/
+forge-zksync-std/=lib/forge-zksync-std/src/
