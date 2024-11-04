@@ -14,6 +14,7 @@ import "lib/Permit2/src/interfaces/IPermit2.sol";
 import "forge-std/console.sol";
 
 // Define WETH interface to unwrap WETH to ETH
+// TODO: use the WETH9 interface from era-contracts
 interface IWETH is IERC20 {
     function withdraw(uint256 amount) external;
 }
