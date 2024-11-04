@@ -7,3 +7,6 @@
 [submodule "lib/era-uniswap-v3-core"]
 	path = lib/era-uniswap-v3-core
 	url = https://github.com/uniswap-zksync/era-uniswap-v3-core
+[submodule "lib/era-uniswap-swap-router-contracts"]
+	path = lib/era-uniswap-swap-router-contracts
+	url = https://github.com/uniswap-zksync/era-uniswap-swap-router-contracts
